@@ -18,6 +18,7 @@ public class FirstGit {
         // TODO code application logic here
         System.out.println("hello java");
         int x = 5; 
+        int y = 6; 
     }
     
 }
