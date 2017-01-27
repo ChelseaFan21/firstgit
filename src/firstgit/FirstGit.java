@@ -19,6 +19,9 @@ public class FirstGit {
         System.out.println("hello java");
         int x = 5; 
         int y = 6; 
+        for(int i = 0; i < 3; i++){
+            System.out.println("the counter is: " + i);
     }
     
+}
 }
